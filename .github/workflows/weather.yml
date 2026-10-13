@@ -1,0 +1,26 @@
+name: weather
+on:
+  schedule:
+    - cron: "25 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Generate XML
+        run: python3 gen_weather.py
+      - name: Commit
+        run: |
+          git config user.name "gerz-bot"
+          git config user.email "gerz-bot@users.noreply.github.com"
+          git add -f 33041_1.xml a.xml c.xml
+          git diff --cached --quiet || git commit -m "weather $(date -u +%FT%TZ)"
+          git push
