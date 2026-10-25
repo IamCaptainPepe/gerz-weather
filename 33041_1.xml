@@ -2,15 +2,15 @@
 <GETWEATHER>
 <MM>10</MM><DD>25</DD><YY>2026</YY>
 <City code="33041" locale="ru" latitude="52.43" longitude="30.99" title="Гомель" country="Беларусь" region="Гомельская обл.">
-<LocalTime timezone="3"><Year>2026</Year><Month>10</Month><Day>25</Day><Hour>11</Hour><Minute>48</Minute></LocalTime>
+<LocalTime timezone="3"><Year>2026</Year><Month>10</Month><Day>25</Day><Hour>16</Hour><Minute>36</Minute></LocalTime>
 <TODAY>
 <PHENOMENONS d="25.10.2026">
 <PHENOMEN d="25.10.2026" t="4" s="0">
-<T>12</T><Tmin>12</Tmin><Tmax>13</Tmax>
+<T>12</T><Tmin>11</Tmin><Tmax>12</Tmax>
 <P>764</P><Pmin>764</Pmin><Pmax>764</Pmax>
-<W>3</W><Wmin>3</Wmin><Wmax>3</Wmax>
-<WMP>11</WMP>
-<S>100</S>
+<W>4</W><Wmin>3</Wmin><Wmax>4</Wmax>
+<WMP>13</WMP>
+<S>99</S>
 <Pp>10</Pp>
 <DD>Ю-В</DD>
 <Day>25</Day><Month>10</Month><Year>2026</Year><Hour>21</Hour><Minute>0</Minute>
@@ -20,7 +20,7 @@
 <P>765</P><Pmin>764</Pmin><Pmax>766</Pmax>
 <W>3</W><Wmin>3</Wmin><Wmax>3</Wmax>
 <WMP>11</WMP>
-<S>99</S>
+<S>95</S>
 <Pp>10</Pp>
 <DD>Ю-В</DD>
 <Day>25</Day><Month>10</Month><Year>2026</Year><Hour>15</Hour><Minute>0</Minute>
@@ -50,32 +50,32 @@
 <TOMORROW>
 <PHENOMENONS d="26.10.2026">
 <PHENOMEN d="26.10.2026" t="4" s="0">
-<T>8</T><Tmin>8</Tmin><Tmax>9</Tmax>
+<T>10</T><Tmin>9</Tmin><Tmax>10</Tmax>
 <P>764</P><Pmin>764</Pmin><Pmax>765</Pmax>
 <W>2</W><Wmin>2</Wmin><Wmax>2</Wmax>
 <WMP>7</WMP>
 <S>98</S>
-<Pp>10</Pp>
+<Pp>4</Pp>
 <DD>Ю-В</DD>
 <Day>26</Day><Month>10</Month><Year>2026</Year><Hour>21</Hour><Minute>0</Minute>
 </PHENOMEN>
 <PHENOMEN d="26.10.2026" t="3" s="0">
-<T>10</T><Tmin>9</Tmin><Tmax>10</Tmax>
-<P>764</P><Pmin>763</Pmin><Pmax>764</Pmax>
+<T>10</T><Tmin>10</Tmin><Tmax>11</Tmax>
+<P>763</P><Pmin>763</Pmin><Pmax>763</Pmax>
 <W>2</W><Wmin>2</Wmin><Wmax>3</Wmax>
 <WMP>9</WMP>
-<S>99</S>
+<S>98</S>
 <Pp>4</Pp>
 <DD>Ю-В</DD>
 <Day>26</Day><Month>10</Month><Year>2026</Year><Hour>15</Hour><Minute>0</Minute>
 </PHENOMEN>
 <PHENOMEN d="26.10.2026" t="2" s="0">
-<T>10</T><Tmin>9</Tmin><Tmax>10</Tmax>
+<T>10</T><Tmin>10</Tmin><Tmax>10</Tmax>
 <P>763</P><Pmin>763</Pmin><Pmax>763</Pmax>
 <W>3</W><Wmin>3</Wmin><Wmax>3</Wmax>
 <WMP>11</WMP>
 <S>100</S>
-<Pp>4</Pp>
+<Pp>10</Pp>
 <DD>Ю-В</DD>
 <Day>26</Day><Month>10</Month><Year>2026</Year><Hour>9</Hour><Minute>0</Minute>
 </PHENOMEN>
