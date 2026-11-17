@@ -2,76 +2,32 @@
 <GETWEATHER>
 <MM>11</MM><DD>17</DD><YY>2026</YY>
 <City code="33041" locale="ru" latitude="52.43" longitude="30.99" title="Гомель" country="Беларусь" region="Гомельская обл.">
-<LocalTime timezone="3"><Year>2026</Year><Month>11</Month><Day>17</Day><Hour>8</Hour><Minute>10</Minute></LocalTime>
-<TODAY>
-<PHENOMENONS d="17.11.2026">
-<PHENOMEN d="17.11.2026" t="4" s="0">
-<T>4</T><Tmin>3</Tmin><Tmax>4</Tmax>
-<P>750</P><Pmin>749</Pmin><Pmax>751</Pmax>
-<W>3</W><Wmin>3</Wmin><Wmax>3</Wmax>
-<WMP>11</WMP>
-<S>100</S>
-<Pp>4</Pp>
-<DD>Ю-В</DD>
-<Day>17</Day><Month>11</Month><Year>2026</Year><Hour>21</Hour><Minute>0</Minute>
-</PHENOMEN>
-<PHENOMEN d="17.11.2026" t="3" s="0">
-<T>3</T><Tmin>3</Tmin><Tmax>3</Tmax>
-<P>752</P><Pmin>751</Pmin><Pmax>754</Pmax>
-<W>4</W><Wmin>3</Wmin><Wmax>4</Wmax>
-<WMP>13</WMP>
-<S>100</S>
-<Pp>4</Pp>
-<DD>Ю-В</DD>
-<Day>17</Day><Month>11</Month><Year>2026</Year><Hour>15</Hour><Minute>0</Minute>
-</PHENOMEN>
-<PHENOMEN d="17.11.2026" t="2" s="0">
-<T>3</T><Tmin>3</Tmin><Tmax>3</Tmax>
-<P>756</P><Pmin>754</Pmin><Pmax>757</Pmax>
-<W>4</W><Wmin>4</Wmin><Wmax>4</Wmax>
-<WMP>14</WMP>
-<S>100</S>
-<Pp>4</Pp>
-<DD>Ю-В</DD>
-<Day>17</Day><Month>11</Month><Year>2026</Year><Hour>9</Hour><Minute>0</Minute>
-</PHENOMEN>
-<PHENOMEN d="17.11.2026" t="1" s="0">
-<T>4</T><Tmin>3</Tmin><Tmax>4</Tmax>
-<P>759</P><Pmin>758</Pmin><Pmax>760</Pmax>
-<W>4</W><Wmin>4</Wmin><Wmax>4</Wmax>
-<WMP>14</WMP>
-<S>98</S>
-<Pp>4</Pp>
-<DD>Ю-В</DD>
-<Day>17</Day><Month>11</Month><Year>2026</Year><Hour>3</Hour><Minute>0</Minute>
-</PHENOMEN>
-</PHENOMENONS>
-</TODAY>
+<LocalTime timezone="3"><Year>2026</Year><Month>11</Month><Day>17</Day><Hour>21</Hour><Minute>6</Minute></LocalTime>
 <TOMORROW>
 <PHENOMENONS d="18.11.2026">
 <PHENOMEN d="18.11.2026" t="4" s="0">
-<T>5</T><Tmin>5</Tmin><Tmax>5</Tmax>
+<T>6</T><Tmin>6</Tmin><Tmax>6</Tmax>
 <P>743</P><Pmin>743</Pmin><Pmax>743</Pmax>
-<W>0</W><Wmin>0</Wmin><Wmax>1</Wmax>
-<WMP>2</WMP>
-<S>100</S>
+<W>2</W><Wmin>2</Wmin><Wmax>2</Wmax>
+<WMP>7</WMP>
+<S>98</S>
 <Pp>4</Pp>
-<DD>С-В</DD>
+<DD>Ю</DD>
 <Day>18</Day><Month>11</Month><Year>2026</Year><Hour>21</Hour><Minute>0</Minute>
 </PHENOMEN>
 <PHENOMEN d="18.11.2026" t="3" s="0">
 <T>6</T><Tmin>5</Tmin><Tmax>6</Tmax>
-<P>744</P><Pmin>743</Pmin><Pmax>744</Pmax>
+<P>743</P><Pmin>743</Pmin><Pmax>743</Pmax>
 <W>2</W><Wmin>2</Wmin><Wmax>2</Wmax>
 <WMP>7</WMP>
 <S>99</S>
 <Pp>4</Pp>
-<DD>В</DD>
+<DD>Ю</DD>
 <Day>18</Day><Month>11</Month><Year>2026</Year><Hour>15</Hour><Minute>0</Minute>
 </PHENOMEN>
 <PHENOMEN d="18.11.2026" t="2" s="0">
 <T>4</T><Tmin>4</Tmin><Tmax>5</Tmax>
-<P>746</P><Pmin>745</Pmin><Pmax>746</Pmax>
+<P>744</P><Pmin>744</Pmin><Pmax>745</Pmax>
 <W>2</W><Wmin>2</Wmin><Wmax>3</Wmax>
 <WMP>9</WMP>
 <S>100</S>
@@ -81,10 +37,10 @@
 </PHENOMEN>
 <PHENOMEN d="18.11.2026" t="1" s="0">
 <T>4</T><Tmin>4</Tmin><Tmax>4</Tmax>
-<P>748</P><Pmin>746</Pmin><Pmax>749</Pmax>
+<P>747</P><Pmin>746</Pmin><Pmax>748</Pmax>
 <W>2</W><Wmin>2</Wmin><Wmax>3</Wmax>
 <WMP>9</WMP>
-<S>99</S>
+<S>98</S>
 <Pp>4</Pp>
 <DD>Ю-В</DD>
 <Day>18</Day><Month>11</Month><Year>2026</Year><Hour>3</Hour><Minute>0</Minute>
